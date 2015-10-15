@@ -1,0 +1,26 @@
+{
+  "name": "threejs-obj-exporter",
+  "version": "0.72.0",
+  "homepage": "https://github.com/bzurkowski/threejs-obj-exporter",
+  "authors": [
+    "Bartosz Zurkowski <bartosz.zurkowski@codesthq.com>"
+  ],
+  "description": "Bower package for three.js OBJExporter",
+  "main": "OBJExporter.js",
+  "keywords": [
+    "three.js",
+    "threejs",
+    "three",
+    "objexporter",
+    "obj",
+    "exporter"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "*.md",
+    "LICENSE",
+    "test",
+    "tests"
+  ]
+}
